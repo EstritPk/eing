@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\bin\Debug\net6.0\ConsoleAppWithMaksi.exe
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\bin\Debug\net6.0\ConsoleAppWithMaksi.deps.json
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\bin\Debug\net6.0\ConsoleAppWithMaksi.runtimeconfig.json
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\bin\Debug\net6.0\ConsoleAppWithMaksi.dll
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\bin\Debug\net6.0\ConsoleAppWithMaksi.pdb
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\obj\Debug\net6.0\ConsoleAppWithMaksi.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\obj\Debug\net6.0\ConsoleAppWithMaksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\obj\Debug\net6.0\ConsoleAppWithMaksi.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\obj\Debug\net6.0\ConsoleAppWithMaksi.AssemblyInfo.cs
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\obj\Debug\net6.0\ConsoleAppWithMaksi.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\obj\Debug\net6.0\ConsoleAppWithMaksi.dll
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\obj\Debug\net6.0\refint\ConsoleAppWithMaksi.dll
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\obj\Debug\net6.0\ConsoleAppWithMaksi.pdb
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\obj\Debug\net6.0\ConsoleAppWithMaksi.genruntimeconfig.cache
+C:\Users\sebas\source\repos\ConsoleAppWithMaksi\ConsoleAppWithMaksi\obj\Debug\net6.0\ref\ConsoleAppWithMaksi.dll
